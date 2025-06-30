@@ -10,10 +10,19 @@ A powerful **Strapi CMS** backend providing API services for the AI Resume Build
 - 📡 **RESTful API** endpoints
 - 🔒 **Role-based Access Control**
 
-## 🚀 Live API
-Backend API deployed on **Render**:
-👉 [API Base URL](https://tg-react-ai-resume-builder.netlify.app/)
+## 🔗 Connected React Frontend Repo
+👉 [React Frontend Repository](https://github.com/fldvlpr/react-ai-resume-builder-app)
 <br/>
+
+## 🚀 Live Demo
+Backend API deployed on **Render**:
+<br/>
+👉 [Check Live Web App URL](https://tg-react-ai-resume-builder.netlify.app/)
+<br/>
+
+## 📱 Web Preview
+[https://github.com/user-attachments/assets/59365e9e-fa2f-417e-a3aa-30152bad2af8
+<br/>](https://github.com/user-attachments/assets/9bff0916-4bbe-48c6-ae7e-c1bb9eb07c35)
 
 ## 📦 Tech Stack
 - Strapi v4
